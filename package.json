@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/ganeshkbhat/socks/issues"
   },
-  "homepage": "https://github.com/ganeshkbhat/socks#readme"
+  "homepage": "https://github.com/ganeshkbhat/socks#readme",
+  "dependencies": {
+    "protocol-interfaces": "^1.0.0"
+  }
 }
